@@ -1,6 +1,8 @@
 📚 FastAPI RAG Application (Retrieval-Augmented Generation)
 
-This project is a Retrieval-Augmented Generation (RAG) API built with FastAPI, Pinecone (vector database), and a text embedding model (OpenAI, Amazon Bedrock Titan, or Llama embeddings).
+This project is a Retrieval-Augmented Generation (RAG) API built with FastAPI, LangChain, Pinecone (vector database), and a text embedding model (OpenAI, Amazon Bedrock Titan, or Llama embeddings).
+
+It allows you to:
 
 It allows you to:
 
