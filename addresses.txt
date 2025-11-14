@@ -1,0 +1,69 @@
+Olivia Carter
+
+Country: United Kingdom
+
+Town: Bristol
+
+Street & Number: 42 Maplewood Lane
+
+Postal Code: BS4 7HP
+
+Phone Number: +44 7529 843 110
+
+Email Address: olivia.carter@mailnet.uk
+------------------------------------------------------------
+Mateo Hernández
+
+Country: Spain
+
+Town: Valencia
+
+Street & Number: Calle Robles 118
+
+Postal Code: 46022
+
+Phone Number: +34 612 904 377
+
+Email Address: mateo.hernandez@correomail.es
+------------------------------------------------------------
+Sophia Kim
+
+Country: South Korea
+
+Town: Busan
+
+Street & Number: 27 Haeundae Beach Road
+
+Postal Code: 48096
+
+Phone Number: +82 10-8472-6301
+
+Email Address: sophia.kim@kmail.kr
+------------------------------------------------------------
+Luca Moretti
+
+Country: Italy
+
+Town: Florence
+
+Street & Number: Via dei Pini 9
+
+Postal Code: 50125
+
+Phone Number: +39 334 889 5520
+
+Email Address: luca.moretti@postait.it
+------------------------------------------------------------
+Amelia Johnson
+
+Country: Canada
+
+Town: Vancouver
+
+Street & Number: 883 Forestview Avenue
+
+Postal Code: V6K 2T5
+
+Phone Number: +1 604-728-9104
+
+Email Address: amelia.johnson@northmail.ca
